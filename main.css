@@ -22,3 +22,9 @@ li {
     color: #000000;
     background-color: #00FF00;
 }
+
+:root {
+    --green: #00FF00;
+    --white: #ffffff;
+    --black: #000000;
+}
